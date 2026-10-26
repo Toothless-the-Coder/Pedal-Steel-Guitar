@@ -31,8 +31,9 @@ Here are the screenshots of the project, including the PCB design and other part
 <img width="785" alt="Pedal steel guitar PCB screenshot" src="https://github.com/user-attachments/assets/b8716195-99ec-4171-81e7-3fdf272720a9" />
 
 <img width="783" alt="Pedal steel guitar PCB screenshot" src="https://github.com/user-attachments/assets/ab62b1ce-b329-45ed-97b0-4072f273fb5c" />
+<img width="380" alt="Pedal steel guitar circuit screenshot" src="https://github.com/user-attachments/assets/fe319219-1644-4a6a-9bbf-9fb01f14c4ce" />
 
-### Circuit Design and Development
+### Code Development
 
 <img width="355" alt="Pedal steel guitar circuit screenshot" src="https://github.com/user-attachments/assets/e03c4056-9f48-4bad-bf7d-f244a080da79" />
 
@@ -48,7 +49,6 @@ Here are the screenshots of the project, including the PCB design and other part
 
 <img width="441" alt="Pedal steel guitar circuit screenshot" src="https://github.com/user-attachments/assets/2e26ec4e-8f1a-46b3-823b-8b5be537ceb5" />
 
-<img width="380" alt="Pedal steel guitar circuit screenshot" src="https://github.com/user-attachments/assets/fe319219-1644-4a6a-9bbf-9fb01f14c4ce" />
 
 ### Additional Project Screenshots
 
