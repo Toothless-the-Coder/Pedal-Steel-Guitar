@@ -1,4 +1,5 @@
 # Pedal Steel Guitar
+
 I decided to make this project because I love the sound of pedal steel guitar but I couldn't afford one, so I made one that doesn't use the super expensive hardware that makes them so costly, but instead uses a digital algorithm to change the pitch instead, how cool is that? This project proved challenging as it required me to work with a lot of things that I had never used before in easyeda,but I learned a lot about routing in the process. The code was also extremely challenging because I don't work with audio in code very often either, but I learned a lot doing it too. This works by taking the input from the strings and changing the pitch in software as opposed to the regular pedal steel which changes the pitch by actually changing the string tension.
 
 <img width="355" height="386" alt="Screenshot 2026-10-25 124425" src="https://github.com/user-attachments/assets/e03c4056-9f48-4bad-bf7d-f244a080da79" />
